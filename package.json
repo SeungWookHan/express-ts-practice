@@ -1,0 +1,8 @@
+{
+  "name": "express-ts-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeungWookHan/express-ts-practice.git",
+  "author": "SeungWookHan <hswook12@me.com>",
+  "license": "MIT"
+}
